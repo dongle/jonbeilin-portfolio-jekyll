@@ -1,0 +1,86 @@
+/**
+ ** Font-face
+ **/
+
+
+/**
+ ** TAGS
+ **/
+body
+{
+	/*background: #202020;*/
+	background: #FFFFFF;
+	color: #808080;
+	font-size: 18px;
+	/*letter-spacing: 1px;*/
+	line-height: 1.5;
+	font-family: FuturaStd-Light;
+}
+
+hr
+{
+	border: 0;
+	height: 1px;
+	background: #2CFFFE;
+}
+
+h1, h2, h3
+{
+	font-family: FuturaStd-CondensedBold, Helvetica, Arial, Verdana, sans-serif;
+	font-size: 24px;
+	color: #000;
+}
+
+strong
+{
+	font-weight: normal;
+	font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;
+	color: #404040;
+}
+
+ul li {
+	list-style-type: none;
+	margin: 0 0 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid #ddd;
+}
+
+a:hover {
+    opacity: .7;
+}
+
+/**
+ ** CLASSES
+ **/
+
+.header
+{
+		/*background: #202020;*/
+	background: #333;
+	color: #2CFFFE;
+	width: 100%;
+}
+
+.header h1
+{
+	color: #2CFFFE;
+	font-family: FuturaStd-CondExtraBoldObl, "Helvetica Neue Condensed Black", "Arial Narrow Bold Italic", Helvetica, Arial;
+}
+
+.gradient  hr
+{
+	border: 0;
+	height: 1px;
+
+    background: -moz-linear-gradient(left, rgba(0,255,255,0) 0%, rgba(0,255,255,1) 10%, rgba(0,255,255,1) 53%, rgba(0,255,255,1) 90%, rgba(0,255,255,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,255,255,0)), color-stop(10%,rgba(0,255,255,1)), color-stop(53%,rgba(0,255,255,1)), color-stop(90%,rgba(0,255,255,1)), color-stop(100%,rgba(0,255,255,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, rgba(0,255,255,0) 0%,rgba(0,255,255,1) 10%,rgba(0,255,255,1) 53%,rgba(0,255,255,1) 90%,rgba(0,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, rgba(0,255,255,0) 0%,rgba(0,255,255,1) 10%,rgba(0,255,255,1) 53%,rgba(0,255,255,1) 90%,rgba(0,255,255,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, rgba(0,255,255,0) 0%,rgba(0,255,255,1) 10%,rgba(0,255,255,1) 53%,rgba(0,255,255,1) 90%,rgba(0,255,255,0) 100%); /* IE10+ */
+	background: linear-gradient(to right, rgba(0,255,255,0) 0%,rgba(0,255,255,1) 10%,rgba(0,255,255,1) 53%,rgba(0,255,255,1) 90%,rgba(0,255,255,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0000ffff', endColorstr='#0000ffff',GradientType=1 ); /* IE6-9 */
+}
