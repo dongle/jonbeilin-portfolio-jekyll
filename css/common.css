@@ -34,8 +34,16 @@ h1, h2, h3
 strong
 {
 	font-weight: normal;
+	font-style: normal;
 	font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;
 	color: #404040;
+}
+
+em
+{
+	font-weight: normal;
+	font-style: normal;
+	font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;
 }
 
 ul li {
