@@ -8,13 +8,14 @@
  **/
 body
 {
-	/*background: #202020;*/
 	background: #FFFFFF;
 	color: #808080;
 	font-size: 18px;
 	/*letter-spacing: 1px;*/
 	line-height: 1.5;
-	font-family: FuturaStd-Light;
+	/*font-family: FuturaStd-Light;*/
+	font-family: "futura-pt", sans-serif;
+	font-weight: 300;
 }
 
 hr
@@ -26,24 +27,27 @@ hr
 
 h1, h2, h3
 {
-	font-family: FuturaStd-CondensedBold, Helvetica, Arial, Verdana, sans-serif;
+	font-family: "futura-pt-condensed", sans-serif;
+	font-weight: 700;
 	font-size: 24px;
 	color: #000;
 }
 
 strong
 {
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
-	font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;
+	/*font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;*/
+	font-family: "futura-pt", sans-serif;
 	color: #404040;
 }
 
 em
 {
-	font-weight: normal;
+	font-weight: 400;
 	font-style: normal;
-	font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;
+	/*font-family: FuturaStd-Book, Helvetica, Arial, Verdana, sans-serif;*/
+	font-family: "futura-pt", sans-serif;
 }
 
 ul li {
@@ -67,7 +71,6 @@ a:hover {
 
 .header
 {
-		/*background: #202020;*/
 	background: #333;
 	color: #2CFFFE;
 	width: 100%;
@@ -76,7 +79,10 @@ a:hover {
 .header h1
 {
 	color: #2CFFFE;
-	font-family: FuturaStd-CondExtraBoldObl, "Helvetica Neue Condensed Black", "Arial Narrow Bold Italic", Helvetica, Arial;
+	/*font-family: FuturaStd-CondExtraBoldObl, "Helvetica Neue Condensed Black", "Arial Narrow Bold Italic", Helvetica, Arial;*/
+	font-family: "futura-pt-condensed", sans-serif;
+	font-weight: 800;
+	font-style: italic;
 }
 
 .gradient  hr
