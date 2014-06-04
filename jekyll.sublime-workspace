@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/archer/Downloads/contents.js",
+		"/Users/archer/Downloads/jbeilin@gmail.com-takeout/Reader/starred.json",
+		"/Volumes/Downloads/!Incoming/506e5b2e8da9732030e8a28b8a0f0e73.html",
+		"/Users/archer/Documents/why do politicians misdirect.txt",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/cv/index.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/about/index.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/index.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_layouts/page.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_layouts/portfolio.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_site/about/index.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_site/index.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_site/deploy.sh",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/css/common.css",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_layouts/default.html",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/css/960.css",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_plugins/projects.rb",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/projects.rb",
+		"/Users/archer/Documents/jonbeilin-portfolio-jekyll/_layouts/post.html",
+		"/Users/archer/Documents/jbdn/index.html",
+		"/Users/archer/Documents/jbdn/_layouts/post.html",
+		"/Users/archer/Documents/jbdn/cv/index.html",
+		"/Users/archer/Documents/jbdn/css/common.css",
+		"/Users/archer/Documents/jbdn/css/main.css",
+		"/Users/archer/Downloads/testflight_devices.txt",
+		"/Users/archer/Documents/jonbeilin-dot-com/fonts/fanwood_text-webfont.eot",
+		"/Users/archer/Documents/note re- cyberpunk for drehn",
+		"/Users/archer/Documents/misc notes 2014 incl pv todo",
+		"/Users/archer/Downloads/960-Grid-System-master/code/css/text.css",
+		"/Users/archer/Downloads/Adobe Photoshop CC Support 14.2 02-10-2014.log",
+		"/Users/archer/Downloads/BASS2.SBI",
+		"/Applications/Adobe Premiere Pro CC/Adobe Premiere Pro CC.app/Contents/cuda_supported_cards.txt",
+		"/Users/archer/.Trash/amtlib 5.16.09 PM.framework/Versions/A/Resources/Info.plist",
+		"/Users/archer/Downloads/mame0152-64bit/mame.ini",
+		"/Users/archer/Downloads/mame0152-64bit/cfg/default.cfg",
+		"/etc/hosts",
+		"/Users/archer/Library/Preferences/com.adobe.Lightroom5.plist",
+		"/Users/archer/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/etc/host",
+		"/Users/archer/Downloads/creative-commons-jfriedl.lrplugin/Info.lua",
+		"/Users/archer/Documents/iphonevaders/Classes/SNEye.mm",
+		"/Users/archer/Documents/weird overnight crash log.txt",
+		"/Users/archer/Documents/bv release.txt",
+		"/Users/archer/Downloads/MIDI_MIXXES_2012_2013/README.txt",
+		"/Users/archer/Documents/BreakVaders/Podfile",
+		"/Users/archer/Downloads/Adobe Photoshop CC 14.0/Readme.txt",
+		"/Users/archer/Documents/IGF PC Only",
+		"/Users/archer/Dropbox/CONSOLIDATION NOTES",
+		"/Volumes/Downloads/!Incoming/Select Button",
+		"/Users/archer/Downloads/LEFT OUT OF CCC to raid",
+		"/Users/archer/Downloads/chaos/chaos.bat",
+		"/Users/archer/Documents/home it bs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cp",
+			"cartoon",
+			"boner",
+			"family",
+			"error",
+			"endless",
+			"youtube"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}
