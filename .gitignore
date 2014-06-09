@@ -1,2 +1,6 @@
 _site
 deploy.sh
+
+*.sublime-workspace
+
+jekyll.sublime-workspace
