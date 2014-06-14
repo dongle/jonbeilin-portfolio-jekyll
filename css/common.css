@@ -116,6 +116,21 @@ section {
 	margin: 0 .5em 0 0;
 }
 
+/* BODY  */
+
+.green {
+	background: #00FF00;
+}
+
+.pthumb {
+	height: 300px;
+	width: 300px;
+}
+
+.deselected_cats {
+	color: #808080;
+}
+
 /* FOOTER */
 
 footer {
@@ -153,7 +168,7 @@ html, body {
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
-	margin: 0 auto -16px;
+	margin: 0 auto 40 px;
 }
 footer, .push {
 	height: 16px;
