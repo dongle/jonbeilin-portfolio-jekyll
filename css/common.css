@@ -59,9 +59,10 @@ em
 	font-family: "futura-pt", sans-serif;
 }
 
-ul li {
+ul, li {
 	list-style-type: none;
 	margin: 0 0 20px 0;
+	padding:  0;
 }
 
 a {
@@ -72,6 +73,8 @@ a {
 
 a:hover {
     opacity: .7;
+    text-decoration: none;
+    color: inherit;
 }
 
 section {
