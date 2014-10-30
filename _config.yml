@@ -1,3 +1,4 @@
 name: Jonathan Beilin Portfolio
 markdown: redcarpet
-highlighter: true
+highlighter: false
+exclude: [jekyll.sublime-project, jekyll.sublime-workspace, .gitignore, deploy.sh]
