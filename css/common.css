@@ -138,13 +138,8 @@ section {
 
 /* BODY  */
 
-.green {
-	background: #00FF00;
-}
-
-.pthumb {
-	height: 300px;
-	width: 300px;
+.fullwidth {
+	width: 100%;
 }
 
 /* FOOTER */
