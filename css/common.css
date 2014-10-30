@@ -81,6 +81,10 @@ a:hover {
 	border-bottom: none;
 }
 
+#navbar a:hover {
+	color: #fff;
+}
+
 section {
 	margin-bottom: 30px;
 }
