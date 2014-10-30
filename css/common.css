@@ -65,6 +65,12 @@ ul, li {
 	padding: 0;
 }
 
+img {
+	display: block;
+	height: auto;
+	max-width: 100%;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -75,14 +81,6 @@ a:hover {
     opacity: .7;
     text-decoration: none;
     color: inherit;
-}
-
-#navbar a {
-	border-bottom: none;
-}
-
-#navbar a:hover {
-	color: #fff;
 }
 
 section {
@@ -124,6 +122,14 @@ section {
 
 .navbar-nav {
 	margin-left: -15px;
+}
+
+#navbar a {
+	border-bottom: none;
+}
+
+#navbar a:hover {
+	color: #fff;
 }
 
 /* BODY  */
