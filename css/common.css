@@ -141,6 +141,15 @@ section {
 	width: 100%;
 }
 
+.projecttitle {
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+.outline {
+  outline: 1px solid black;
+}
+
 /* FOOTER */
 
 footer {
