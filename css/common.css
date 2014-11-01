@@ -135,6 +135,15 @@ section {
 	color: #fff;
 }
 
+a.icon {
+	border-bottom: none;
+}
+
+/* GALLERIA */
+.galleria { 
+	width: 700px; height: 400px; background: #000 
+}
+
 /* BODY  */
 
 .fullwidth {
