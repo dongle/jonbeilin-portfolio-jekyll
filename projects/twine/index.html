@@ -1,11 +1,13 @@
 ---
-layout: gallery
+layout: portfolio
 title: Twine
 ---
 
 <section>
 	<div class="row">
 		<div class="col-md-8">
+
+			<!-- ADD ATLANTIC ARTICLE -->
 			<p>The twine ball is a near-mythical folk-art roadside attraction. Many people have heard of it; only some believe in it; few outside the midwest have witnessed it. The size estimates are often wrong by a factor of ten or more. And, as decades-long projects, these balls change, as do their contexts. Each ball of twine has a special quality and a unique story about its origin and its community. </p>
 
 			<p>This book serves to document and preserve America's four biggest balls of twine as they stand in 2014. Some of the balls are over 50 years old. In another 50 years the balls and their surroundings will look very different. The Lake Nebagamon ball may need a new home after its maintainer has passed. The Cawker ball could very well become the most voluminous ball by a factor of two. Or Cawker could become yet another Kansas ghost town. Will Darwin maintain its intentionally quaint aesthetic, or will Minneapolis's revival suburbanize it?</p>
@@ -17,13 +19,4 @@ title: Twine
 	</div>
 </section>
 
-<section>
-	<div class="galleria"></div>
-
-    <script>
-        Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.min.js');
-        Galleria.run('.galleria', {
-        	flickr: 'set:72157644784443709'
-        });
-    </script>
-</section>
+{% include gallery.html set="72157644784443709" %}
