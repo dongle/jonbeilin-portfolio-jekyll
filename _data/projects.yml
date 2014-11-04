@@ -1,11 +1,17 @@
 - name: Photo/Video
   projects:
-    - title: Dixie
-      image: dixie.jpg
+    - title: Dixie Photo Series
+      image: /projects/dixie/dixie_thumb.jpg
       path: /projects/dixie
-    - title: Xiu Xiu
-      image: xiuxiu.jpg
+    - title: Xiu Xiu Album Cover
+      image: /projects/xiuxiu/xiuxiu_thumb.jpg
       path: /projects/xiuxiu
+    - title: Nonprofit Videography
+      image: /projects/videographynonprofit/videographynonprofit_thumb.jpg
+      path: /projects/videographynonprofit/
+    - title: Imperfect Appetites Macro Videography
+      image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
+      path: /projects/imperfectappetites/
 - name: Interactive
   projects:
     - title: DIY

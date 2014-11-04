@@ -9,19 +9,15 @@ title: Portfolio
 	<h1>{{ category.name }}</h1>
 	{% for p in category.projects %}
 		{% assign mod = forloop.index0 | modulo:3 %}
-		{% if mod == 0 %}
-		<div class ="row"> {% endif %}
+		{% if mod == 0 %}<div class ="row">{% endif %}
 			<div class="col-md-4 col-sm-6">
 				<a href="{{ p.path }}"><img src="{{ p.image }}" class="fullwidth" /></a>
 				<h2 class="projecttitle"><a href="{{ p.path }}">{{ p.title }}</a></h2>
-				{{ mod }}
 			</div>
 		{% assign lastInRow = false %}
 		{% if mod == 2 %} {% assign lastInRow = true %} {% endif %}
-		{% if forloop.last %} {% assign lastInRow = true %} {% endif %}
-		{% if lastInRow %}
-		</div> {% endif %}
+		{% if forloop.last %} {% assign lastInRow = true %}{% endif %}
+		{% if lastInRow %}</div>{% endif %}
 	{% endfor %}
-
 </section>
 {% endfor %}
