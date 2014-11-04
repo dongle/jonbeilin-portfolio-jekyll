@@ -1,0 +1,13 @@
+- name: Photo/Video
+  projects:
+    - title: Dixie
+      image: dixie.jpg
+      path: /projects/dixie
+    - title: Xiu Xiu
+      image: xiuxiu.jpg
+      path: /projects/xiuxiu
+- name: Interactive
+  projects:
+    - title: DIY
+      image: diy.jpg
+      path: /projects//diysignup
