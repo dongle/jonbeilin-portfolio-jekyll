@@ -1,4 +1,6 @@
 name: Jonathan Beilin Portfolio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jonbeilin.org"
 markdown: kramdown
 highlighter: false
 exclude: [jekyll.sublime-project, jekyll.sublime-workspace, .gitignore, deploy.sh]
