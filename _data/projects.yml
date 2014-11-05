@@ -20,6 +20,7 @@
     - title: Web Ecology Project
       image: /projects/webecology/webecology_thumb.png
       path: /projects/webecology/
+      outline: true
     # AI Conference
 - name: Interactive
   projects:
@@ -35,11 +36,13 @@
     - title: Mandala App
       image: /projects/mandala/mandala_thumb.png
       path: /projects/mandala/
+      outline: true
 - name: Mixed Media
   projects:
     - title: Eddie Murphy Career Retrospective
       image: /projects/eddiemurphy/eddiemurphy_thumb.png
       path: /projects/eddiemurphy
+      outline: true
 - name: Writing
   projects:
     - title: Game Developer Magazine

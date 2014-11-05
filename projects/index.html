@@ -11,7 +11,7 @@ title: Portfolio
 		{% assign mod = forloop.index0 | modulo:3 %}
 		{% if mod == 0 %}<div class ="row">{% endif %}
 			<div class="col-md-4 col-sm-6">
-				<a href="{{ p.path }}"><img src="{{ p.image }}" class="fullwidth" /></a>
+				<a href="{{ p.path }}"><img src="{{ p.image }}" class="fullwidth {% if p.outline %} outline {% endif %}" /></a>
 				<h2 class="projecttitle"><a href="{{ p.path }}">{{ p.title }}</a></h2>
 			</div>
 		{% assign lastInRow = false %}
