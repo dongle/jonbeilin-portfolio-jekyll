@@ -2,18 +2,48 @@
   projects:
     - title: Dixie Photo Series
       image: /projects/dixie/dixie_thumb.jpg
-      path: /projects/dixie
+      path: /projects/dixie/
     - title: Xiu Xiu Album Cover
       image: /projects/xiuxiu/xiuxiu_thumb.jpg
-      path: /projects/xiuxiu
+      path: /projects/xiuxiu/
     - title: Nonprofit Videography
       image: /projects/videographynonprofit/videographynonprofit_thumb.jpg
       path: /projects/videographynonprofit/
     - title: Imperfect Appetites Macro Videography
       image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
       path: /projects/imperfectappetites/
+- name: Organizations
+  projects:
+    - title: Allied Media Conference
+      image: /projects/alliedmedia/alliedmedia_thumb.jpg
+      path: /projects/alliedmedia/
+    - title: Web Ecology Project
+      image: /projects/webecology/webecology_thumb.png
+      path: /projects/webecology/
 - name: Interactive
   projects:
     - title: DIY
-      image: diy.jpg
-      path: /projects//diysignup
+      image: /projects/diysignup/diysignup_thumb.jpg
+      path: /projects/diysignup/
+    # - title: DIY Motion Design
+    #   image:
+    #   path: /projects/diymotiondesign
+    - title: BreakVaders
+      image: /projects/breakvaders/breakvaders_thumb.jpg
+      path: /projects/breakvaders/
+    - title: Mandala App
+      image: /projects/mandala/mandala_thumb.png
+      path: /projects/mandala/
+- name: Mixed Media
+  projects:
+    - title: Eddie Murphy Career Retrospective
+      image: /projects/eddiemurphy/eddiemurphy_thumb.png
+      path: /projects/eddiemurphy
+- name: Writing
+  projects:
+    - title: Game Developer Magazine
+      image: /projects/gdmag/gdmag_thumb.jpg
+      path: /projects/gdmag/
+    - title: Killscreen Magazine
+      image: /projects/ksmag/ksmag_thumb.jpg
+      path: /projects/ksmag/
