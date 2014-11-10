@@ -1,6 +1,12 @@
 Options +FollowSymlinks
 RewriteEngine on
 
+RewriteCond %{http_host} ^datejon.com$ [nc]
+RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
+
+RewriteCond %{http_host} ^www.datejon.com$ [nc]
+RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
+
 RewriteCond %{http_host} ^jonbeilin.com$ [nc]
 RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
 
