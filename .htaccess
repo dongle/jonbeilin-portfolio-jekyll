@@ -1,6 +1,7 @@
 Options +FollowSymlinks
 RewriteEngine on
 
+# REDIRECT ALT DOMAINS
 RewriteCond %{http_host} ^datejon.com$ [nc]
 RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
 
@@ -21,3 +22,10 @@ RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
 
 RewriteCond %{http_host} ^www.jonbeilin.org$ [nc]
 RewriteRule ^(.*)$ http://jonbeilin.org/$1 [r=301,l]
+
+# TURN AWAY SEMALT ET AL
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*semalt\.com [NC]
+RewriteRule (.*) http://www.semalt.com [R=301,L]
+
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*buttons-for-website\.com [NC]
+RewriteRule (.*) http://buttons-for-website.com [R=301,L]
