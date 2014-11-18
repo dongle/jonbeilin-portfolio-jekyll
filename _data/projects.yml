@@ -1,8 +1,20 @@
 - name: Photo/Video
   projects:
+    - title: Twine
+      image: /projects/twine/twine_thumb.jpg
+      path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
     - title: Dixie Photo Series
       image: /projects/dixie/dixie_thumb.jpg
       path: /projects/dixie/
+    # - title: American Cyberpunk
+    #   image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
+    #   path: /projects/americancyberpunk
+    # - title: imgur
+    #   image: /projects/imgur/imgur_thumb.jpg
+    #   path: /projects/imgur
+    - title: Metronomy "Upsetter"
+      image: /projects/metronomy/metronomy_thumb.jpg
+      path: /projects/metronomy
     - title: Xiu Xiu Album Cover
       image: /projects/xiuxiu/xiuxiu_thumb.jpg
       path: /projects/xiuxiu/
@@ -12,6 +24,9 @@
     - title: Imperfect Appetites Macro Videography
       image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
       path: /projects/imperfectappetites/
+    - title: Escalator Rat
+      image: /projects/rat/rat_thumb.jpg
+      path: /projects/rat
 - name: Organizations
   projects:
     - title: Allied Media Conference
@@ -21,7 +36,6 @@
       image: /projects/webecology/webecology_thumb.png
       path: /projects/webecology/
       outline: true
-    # AI Conference
 - name: Interactive
   projects:
     - title: DIY
@@ -30,6 +44,9 @@
     # - title: DIY Motion Design
     #   image:
     #   path: /projects/diymotiondesign
+    # - title: Antibutton
+    #   image: /projects/antibutton/antibutton_thumb.jpg
+    #   path: /projects/antibutton
     - title: BreakVaders
       image: /projects/breakvaders/breakvaders_thumb.jpg
       path: /projects/breakvaders/
@@ -37,12 +54,27 @@
       image: /projects/mandala/mandala_thumb.png
       path: /projects/mandala/
       outline: true
+    # - title: Conference pranks
+    #   image: /projects/conferencepranks/conferencepranks_thumb.jpg
+    #   path: /projects/conferencepranks
 - name: Mixed Media
   projects:
+    # - title: 3D Work (C4D)
+    #   image: /projects/3d/3d_thumb.jpg
+    #   path: /projects/3d
     - title: Eddie Murphy Career Retrospective
       image: /projects/eddiemurphy/eddiemurphy_thumb.png
       path: /projects/eddiemurphy
       outline: true
+    # - title: Lasercuts
+    #   image: /projects/lasercuts/lasercuts_thumb.jpg
+    #   path: /projects/lasercuts
+    # - title: Human Shield
+    #   image: /projects/humanshield_thumb.jpg
+    #   path: /projects/humanshield
+    - title: Slowmotroid
+      image: /projects/slowmotroid/slowmotroid_thumb.jpg
+      path: /projects/slowmotroid
 - name: Writing
   projects:
     - title: Game Developer Magazine
