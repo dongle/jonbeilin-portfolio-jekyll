@@ -3,5 +3,23 @@ layout: default
 ---
 
 <div class="container">
-{{ content }}
-</div>
+	<div class="row">
+		<div class="col-md-12">
+			<h1>{{ page.title }} — {{ page.year }}</h1>
+			{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+		</div>
+	</div>
+
+	{% if page.gallery %}
+	{% include gallery.html set=page.flickrset %}
+	{% endif %}
+
+	{% if page.description %}<div class="row">
+		<div class="col-md-8">
+			<p>{{ page.description }}</p>
+		</div>
+	</div>{% endif %}
+
+	{{ content }}
+
+</div> <!-- container -->

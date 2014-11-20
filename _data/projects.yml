@@ -12,9 +12,9 @@
     # - title: imgur
     #   image: /projects/imgur/imgur_thumb.jpg
     #   path: /projects/imgur
-    - title: Metronomy "Upsetter"
-      image: /projects/metronomy/metronomy_thumb.jpg
-      path: /projects/metronomy
+    # - title: Metronomy "Upsetter"
+    #   image: /projects/metronomy/metronomy_thumb.jpg
+    #   path: /projects/metronomy
     - title: Xiu Xiu Album Cover
       image: /projects/xiuxiu/xiuxiu_thumb.jpg
       path: /projects/xiuxiu/
@@ -24,9 +24,9 @@
     - title: Imperfect Appetites Macro Videography
       image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
       path: /projects/imperfectappetites/
-    - title: Escalator Rat
-      image: /projects/rat/rat_thumb.jpg
-      path: /projects/rat
+    # - title: Escalator Rat
+    #   image: /projects/rat/rat_thumb.jpg
+    #   path: /projects/rat
 - name: Organizations
   projects:
     - title: Allied Media Conference
@@ -72,9 +72,9 @@
     # - title: Human Shield
     #   image: /projects/humanshield_thumb.jpg
     #   path: /projects/humanshield
-    - title: Slowmotroid
-      image: /projects/slowmotroid/slowmotroid_thumb.jpg
-      path: /projects/slowmotroid
+    # - title: Slowmotroid
+    #   image: /projects/slowmotroid/slowmotroid_thumb.jpg
+    #   path: /projects/slowmotroid
 - name: Writing
   projects:
     - title: Game Developer Magazine
