@@ -27,15 +27,6 @@
     # - title: Escalator Rat
     #   image: /projects/rat/rat_thumb.jpg
     #   path: /projects/rat
-- name: Organizations
-  projects:
-    - title: Allied Media Conference
-      image: /projects/alliedmedia/alliedmedia_thumb.jpg
-      path: /projects/alliedmedia/
-    - title: Web Ecology Project
-      image: /projects/webecology/webecology_thumb.png
-      path: /projects/webecology/
-      outline: true
 - name: Interactive
   projects:
     - title: DIY
@@ -57,6 +48,15 @@
     # - title: Conference pranks
     #   image: /projects/conferencepranks/conferencepranks_thumb.jpg
     #   path: /projects/conferencepranks
+- name: Organizations
+  projects:
+    - title: Allied Media Conference
+      image: /projects/alliedmedia/alliedmedia_thumb.jpg
+      path: /projects/alliedmedia/
+    - title: Web Ecology Project
+      image: /projects/webecology/webecology_thumb.png
+      path: /projects/webecology/
+      outline: true
 - name: Mixed Media
   projects:
     # - title: 3D Work (C4D)
@@ -69,12 +69,18 @@
     # - title: Lasercuts
     #   image: /projects/lasercuts/lasercuts_thumb.jpg
     #   path: /projects/lasercuts
+    # - title: Executed keyboard
+    #   image: /projects/???
+    #   path: /projects/???
     # - title: Human Shield
     #   image: /projects/humanshield_thumb.jpg
     #   path: /projects/humanshield
     # - title: Slowmotroid
     #   image: /projects/slowmotroid/slowmotroid_thumb.jpg
     #   path: /projects/slowmotroid
+    # oakland nights live sign 
+    # // folded eno
+# - name: Audio // meowize laverne and shirley / twin barks
 - name: Writing
   projects:
     - title: Game Developer Magazine

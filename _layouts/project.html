@@ -14,12 +14,10 @@ layout: default
 	{% include gallery.html set=page.flickrset %}
 	{% endif %}
 
-	{% if page.description %}<div class="row">
+	<div class="row">
 		<div class="col-md-8">
-			<p>{{ page.description }}</p>
+			{{ content }}
 		</div>
-	</div>{% endif %}
-
-	{{ content }}
+	</div>
 
 </div> <!-- container -->
