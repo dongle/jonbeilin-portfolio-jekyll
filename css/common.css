@@ -169,3 +169,37 @@ footer {
 	position: absolute;
 	bottom: 0;
 }
+
+/* PRINT */
+
+@media print {
+
+	body {
+		font-size: 10pt;
+	}
+
+	h1, h2, h3
+	{
+		font-size: 15px;
+	}
+
+	h2 {
+		font-size: 15pt;
+	}
+
+	nav {
+		display: none;
+	}
+
+	.noprint {
+		display: none;
+	}
+
+	a:after {
+		display: none;
+	}
+
+	@page {
+		margin: 1 in;
+	}
+}
