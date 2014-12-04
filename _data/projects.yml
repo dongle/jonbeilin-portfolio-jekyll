@@ -15,6 +15,9 @@
     # - title: Metronomy "Upsetter"
     #   image: /projects/metronomy/metronomy_thumb.jpg
     #   path: /projects/metronomy
+    # - title: Inside Food
+    #   image: /projects/insidefood/insidefood_thumb.jpg
+    #   path: /projects/insidefood
     - title: Xiu Xiu Album Cover
       image: /projects/xiuxiu/xiuxiu_thumb.jpg
       path: /projects/xiuxiu/
@@ -78,6 +81,7 @@
     # - title: Slowmotroid
     #   image: /projects/slowmotroid/slowmotroid_thumb.jpg
     #   path: /projects/slowmotroid
+    # - title: Special Delivery
     # oakland nights live sign 
     # // folded eno
 # - name: Audio // meowize laverne and shirley / twin barks
