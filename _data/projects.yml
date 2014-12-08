@@ -27,9 +27,9 @@
     - title: Imperfect Appetites Macro Videography
       image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
       path: /projects/imperfectappetites/
-    # - title: Escalator Rat
-    #   image: /projects/rat/rat_thumb.jpg
-    #   path: /projects/rat
+    - title: Escalator Rat
+      image: /projects/rat/rat_thumb.jpg
+      path: /projects/rat
 - name: Interactive
   projects:
     - title: DIY
@@ -83,7 +83,6 @@
     #   path: /projects/slowmotroid
     # - title: Special Delivery
     # oakland nights live sign 
-    # // folded eno
 # - name: Audio // meowize laverne and shirley / twin barks
 - name: Writing
   projects:
