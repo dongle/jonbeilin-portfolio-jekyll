@@ -78,9 +78,9 @@
     # - title: Human Shield
     #   image: /projects/humanshield_thumb.jpg
     #   path: /projects/humanshield
-    # - title: Slowmotroid
-    #   image: /projects/slowmotroid/slowmotroid_thumb.jpg
-    #   path: /projects/slowmotroid
+    - title: Slowmotroid
+      image: /projects/slowmotroid/slowmotroid_thumb.jpg
+      path: /projects/slowmotroid
     # - title: Special Delivery
     # oakland nights live sign 
 # - name: Audio // meowize laverne and shirley / twin barks
