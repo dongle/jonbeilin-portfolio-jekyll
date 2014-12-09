@@ -33,12 +33,9 @@
       path: /projects/rat
 - name: Interactive
   projects:
-    - title: DIY 1.0 Mobile Signup
+    - title: DIY Mobile Signup / Motion Design
       image: /projects/diysignup/diysignup_thumb.jpg
       path: /projects/diysignup/
-    # - title: DIY Motion Design
-    #   image:
-    #   path: /projects/diymotiondesign
     # - title: Antibutton
     #   image: /projects/antibutton/antibutton_thumb.jpg
     #   path: /projects/antibutton
