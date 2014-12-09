@@ -33,7 +33,7 @@
       path: /projects/rat
 - name: Interactive
   projects:
-    - title: DIY
+    - title: DIY 1.0 Mobile Signup
       image: /projects/diysignup/diysignup_thumb.jpg
       path: /projects/diysignup/
     # - title: DIY Motion Design
@@ -73,9 +73,9 @@
     # - title: Lasercuts
     #   image: /projects/lasercuts/lasercuts_thumb.jpg
     #   path: /projects/lasercuts
-    # - title: Executed keyboard
-    #   image: /projects/???
-    #   path: /projects/???
+    # - title: Keyboard Execution
+    #   image: /projects/keyboardexecution
+    #   path: /projects/keyboardexecution_thumb.jpg
     # - title: Human Shield
     #   image: /projects/humanshield_thumb.jpg
     #   path: /projects/humanshield
