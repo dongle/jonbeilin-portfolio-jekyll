@@ -6,15 +6,16 @@
     - title: Dixie Photo Series
       image: /projects/dixie/dixie_thumb.jpg
       path: /projects/dixie/
-    # - title: American Cyberpunk
-    #   image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
-    #   path: /projects/americancyberpunk
     - title: imgur Product Photography
       image: /projects/imgur/imgur_thumb.jpg
       path: /projects/imgur
     - title: Metronomy "The Upsetter" Behind The Scenes
       image: /projects/metronomy/metronomy_thumb.jpg
       path: /projects/metronomy
+    - title: American Cyberpunk
+      image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
+      path: /projects/americancyberpunk
+      outline: true
     # - title: Inside Food
     #   image: /projects/insidefood/insidefood_thumb.jpg
     #   path: /projects/insidefood
