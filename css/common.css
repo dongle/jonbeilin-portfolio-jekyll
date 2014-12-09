@@ -134,7 +134,8 @@ a.icon {
 
 /* GALLERIA */
 .galleria { 
-	width: 700px; height: 400px; background: #000 
+	width: auto;
+	background: #000;
 }
 
 /* BODY  */

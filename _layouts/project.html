@@ -10,9 +10,13 @@ layout: default
 		</div>
 	</div>
 
-	{% if page.gallery %}
-	{% include gallery.html set=page.flickrset %}
-	{% endif %}
+	<div class="row">
+		<div class="col-md-12">
+			{% if page.gallery %}
+			{% include gallery.html set=page.flickrset %}
+			{% endif %}
+		</div>
+	</div>
 
 	<div class="row">
 		<div class="col-md-8">
