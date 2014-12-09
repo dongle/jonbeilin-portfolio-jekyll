@@ -9,10 +9,10 @@
     # - title: American Cyberpunk
     #   image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
     #   path: /projects/americancyberpunk
-    # - title: imgur
-    #   image: /projects/imgur/imgur_thumb.jpg
-    #   path: /projects/imgur
-    - title: Metronomy "Upsetter"
+    - title: imgur Product Photography
+      image: /projects/imgur/imgur_thumb.jpg
+      path: /projects/imgur
+    - title: Metronomy "The Upsetter" Behind The Scenes
       image: /projects/metronomy/metronomy_thumb.jpg
       path: /projects/metronomy
     # - title: Inside Food
