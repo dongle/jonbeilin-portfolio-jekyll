@@ -12,9 +12,9 @@
     # - title: imgur
     #   image: /projects/imgur/imgur_thumb.jpg
     #   path: /projects/imgur
-    # - title: Metronomy "Upsetter"
-    #   image: /projects/metronomy/metronomy_thumb.jpg
-    #   path: /projects/metronomy
+    - title: Metronomy "Upsetter"
+      image: /projects/metronomy/metronomy_thumb.jpg
+      path: /projects/metronomy
     # - title: Inside Food
     #   image: /projects/insidefood/insidefood_thumb.jpg
     #   path: /projects/insidefood
