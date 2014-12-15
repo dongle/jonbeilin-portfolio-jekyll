@@ -165,6 +165,10 @@ footer {
 
 /* PRINT */
 
+.noscreen {
+	display: none;
+}
+
 @media print {
 
 	body {
@@ -173,7 +177,11 @@ footer {
 
 	h1, h2, h3
 	{
-		font-size: 15px;
+		font-size: 15pt;
+	}
+
+	h1 {
+		font-size: 20pt;
 	}
 
 	h2 {
@@ -188,11 +196,16 @@ footer {
 		display: none;
 	}
 
+	.noscreen {
+		display: inline;
+	}
+
 	a:after {
 		display: none;
 	}
+}
 
-	@page {
-		margin: 1 in;
-	}
+@page {
+	size: 8.5in 11in;
+	margin: 2in;
 }
