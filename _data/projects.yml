@@ -36,9 +36,9 @@
     - title: DIY Mobile Signup / Motion Design
       image: /projects/diysignup/diysignup_thumb.jpg
       path: /projects/diysignup/
-    # - title: Antibutton
-    #   image: /projects/antibutton/antibutton_thumb.jpg
-    #   path: /projects/antibutton
+    - title: Antibutton
+      image: /projects/antibutton/antibutton_thumb.jpg
+      path: /projects/antibutton
     - title: BreakVaders
       image: /projects/breakvaders/breakvaders_thumb.jpg
       path: /projects/breakvaders/
@@ -46,9 +46,9 @@
       image: /projects/mandala/mandala_thumb.png
       path: /projects/mandala/
       outline: true
-    # - title: Conference pranks
-    #   image: /projects/conferencepranks/conferencepranks_thumb.jpg
-    #   path: /projects/conferencepranks
+    - title: Conference pranks
+      image: /projects/conferencepranks/conferencepranks_thumb.jpg
+      path: /projects/conferencepranks
 - name: Organizations
   projects:
     - title: Allied Media Conference
@@ -73,9 +73,9 @@
     # - title: Keyboard Execution
     #   image: /projects/keyboardexecution
     #   path: /projects/keyboardexecution_thumb.jpg
-    # - title: Human Shield
-    #   image: /projects/humanshield_thumb.jpg
-    #   path: /projects/humanshield
+    - title: Human Shield
+      image: /projects/humanshield_thumb.jpg
+      path: /projects/humanshield
     - title: Slowmotroid
       image: /projects/slowmotroid/slowmotroid_thumb.jpg
       path: /projects/slowmotroid
