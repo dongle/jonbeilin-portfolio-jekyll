@@ -203,6 +203,10 @@ footer {
 	a:after {
 		display: none;
 	}
+
+	p {
+		font-size: 8pt;
+	}
 }
 
 .resume li {
