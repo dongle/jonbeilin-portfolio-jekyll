@@ -12,8 +12,8 @@ layout: default
 
 	<div class="row">
 		<div class="col-md-8">
-			{% if page.gallery %}
-			{% include gallery.html set=page.flickrset %}
+			{% if page.gallery and page.flickrset %}
+			{% include galleryphoto.html set=page.flickrset %}
 			{% endif %}
 		</div>
 	</div>
@@ -21,6 +21,9 @@ layout: default
 	<div class="row">
 		<div class="col-md-8">
 			{{ content }}
+			{% if page.gallery and page.video %}
+			{% include galleryvideo.html %}
+			{% endif %}
 		</div>
 	</div>
 

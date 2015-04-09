@@ -1,5 +1,10 @@
 - name: Photo/Video
   projects:
+    - title: Everlane
+      image: /projects/everlane/everlane_thumb.jpg
+      path: /projects/everlane
+  #First People
+  #Domino
     - title: Twine
       image: /projects/twine/twine_thumb.jpg
       path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
