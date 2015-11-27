@@ -1,5 +1,6 @@
 _site
 deploy.sh
+s3_website.yml
 
 *.sublime-workspace
 
