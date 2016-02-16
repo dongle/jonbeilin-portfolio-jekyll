@@ -3,12 +3,9 @@ layout: page
 title: Portfolio
 ---
 
-{% for category in site.data.projects %}
-<!-- <div class="clearfix"></div> -->
 <section>
-	<!-- <h1>{{ category.name }}</h1> -->
 	<div class="row">
-	{% for p in category.projects %}
+	{% for p in site.data.projects %}
 			<div class="col-md-4 col-sm-6 col-xs-6">
 				<a href="{{ p.path }}"><img src="{{ p.image }}" class="fullwidth {% if p.outline %} outline {% endif %}" /></a>
 				<h2 class="projecttitle"><a href="{{ p.path }}">{{ p.title }}</a></h2>
@@ -16,4 +13,3 @@ title: Portfolio
 	{% endfor %}
 	</div>
 </section>
-{% endfor %}

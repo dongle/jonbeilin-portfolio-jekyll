@@ -1,118 +1,143 @@
-- name: Photo/Video
-  projects:
-    - title: Everlane
-      image: /projects/everlane/everlane_thumb.jpg
-      path: /projects/everlane
+- title: Impulzus
+  image: /projects/impulzus/impulzus_thumb.jpg
+  path: /projects/impulzus/
+  outline: true
 
-    - title: Xiu Xiu "Fuck The Police" Cover
-      image: /projects/xiuxiu/xiuxiu_thumb.jpg
-      path: /projects/xiuxiu/
+- title: Bebe Huxley "Darkside" Video
+  image: /projects/bebedarkside/bebe_thumb.jpg
+  path: /projects/bebedarkside/
 
-  #First People
-  #Domino
-  #Fister
+- title: Everlane
+  image: /projects/everlane/everlane_thumb.jpg
+  path: /projects/everlane
 
-    - title: Twine
-      image: /projects/twine/twine_thumb.jpg
-      path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
+- title: Xiu Xiu "Fuck The Police" Cover
+  image: /projects/xiuxiu/xiuxiu_thumb.jpg
+  path: /projects/xiuxiu/
 
-    - title: DIY Mobile Signup / Motion Design
-      image: /projects/diysignup/diysignup_thumb.jpg
-      path: /projects/diysignup/
+- title: Human Shield
+  image: /projects/humanshield/humanshield_thumb.jpg
+  path: /projects/humanshield
 
-    - title: BreakVaders
-      image: /projects/breakvaders/breakvaders_thumb.jpg
-      path: /projects/breakvaders/
+# - title: Future Archaeology
+#   image: /projects/futurearchaeology/fa_thumb.jpg
+#   path: /projects/futurearchaeology/
 
-    - title: Mandala App
-      image: /projects/mandala/mandala_thumb.png
-      path: /projects/mandala/
-      outline: true
+- title: DIY Mobile Signup / Motion Design
+  image: /projects/diysignup/diysignup_thumb.jpg
+  path: /projects/diysignup/
 
-    - title: Human Shield
-      image: /projects/humanshield/humanshield_thumb.jpg
-      path: /projects/humanshield
+- title: First People (VR short)
+  image: /projects/firstpeople/fp_thumb.jpg
+  path: /projects/firstpeople/
 
-    - title: Dixie Photo Series
-      image: /projects/dixie/dixie_thumb.jpg
-      path: /projects/dixie/
+- title: Conference Interventions
+  image: /projects/conferenceinterventions/conference_thumb.jpg
+  path: /projects/conferenceinterventions/
 
-    - title: imgur Product Photography
-      image: /projects/imgur/imgur_thumb.jpg
-      path: /projects/imgur
+- title: Cyber Execution
+  image: /projects/cyberexecution/cyberexecution_thumb.jpg
+  path: /projects/cyberexecution/
 
-    - title: American Cyberpunk
-      image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
-      path: /projects/americancyberpunk
-      outline: true
+# - title: Edward Snowbot
+#   image: /projects/snowbot/snowbot_thumb.jpg
+#   path: /projects/snowbot/
 
-    - title: Imperfect Appetites Macro Videography
-      image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
-      path: /projects/imperfectappetites/
+- title: Privilege
+  image: /projects/privilege/privilege_thumb.jpg
+  path: /projects/privilege/
 
-    - title: Escalator Rat
-      image: /projects/rat/rat_thumb.jpg
-      path: /projects/rat
+- title: Slowmotroid
+  image: /projects/slowmotroid/slowmotroid_thumb.jpg
+  path: /projects/slowmotroid/
 
-# - name: Interactive
-#   projects:
+# - title: Fister
+#   image: /projects/fister/fister_thumb.jpg
+#   path: /projects/fister/
 
-    - title: Antibutton
-      image: /projects/antibutton/antibutton_thumb.jpg
-      path: /projects/antibutton
+# - title: Double Six Dance
+#   image: /projects/doublesix/doublesix_thumb.jpg
+#   path: /projects/doublesix/
 
-    - title: Conference pranks
-      image: /projects/conferencepranks/conferencepranks_thumb.jpg
-      path: /projects/conferencepranks
+- title: Twine
+  image: /projects/twine/twine_thumb.jpg
+  path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
 
-    - title: Web Ecology Project
-      image: /projects/webecology/webecology_thumb.png
-      path: /projects/webecology/
-      outline: true
+- title: Allied Media Conference
+  image: /projects/alliedmedia/alliedmedia_thumb.jpg
+  path: /projects/alliedmedia/
 
-# - name: Mixed Media
-#   projects:
+- title: BreakVaders
+  image: /projects/breakvaders/breakvaders_thumb.jpg
+  path: /projects/breakvaders/
 
-    - title: Eddie Murphy Career Retrospective
-      image: /projects/eddiemurphy/eddiemurphy_thumb.png
-      path: /projects/eddiemurphy
-      outline: true
+- title: Mandala App
+  image: /projects/mandala/mandala_thumb.png
+  path: /projects/mandala/
+  outline: true
 
-    # - title: Keyboard Execution
-    #   image: /projects/keyboardexecution
-    #   path: /projects/keyboardexecution_thumb.jpg
+- title: Dixie Photo Series
+  image: /projects/dixie/dixie_thumb.jpg
+  path: /projects/dixie/
 
-# - title: Special Delivery
+- title: imgur Product Photography
+  image: /projects/imgur/imgur_thumb.jpg
+  path: /projects/imgur/
+
+- title: American Cyberpunk
+  image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
+  path: /projects/americancyberpunk/
+  outline: true
+
+- title: Imperfect Appetites Macro Videography
+  image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
+  path: /projects/imperfectappetites/
+
+- title: Escalator Rat
+  image: /projects/rat/rat_thumb.jpg
+  path: /projects/rat/
+
+- title: Antibutton
+  image: /projects/antibutton/antibutton_thumb.jpg
+  path: /projects/antibutton/
+
+- title: Web Ecology Project
+  image: /projects/webecology/webecology_thumb.png
+  path: /projects/webecology/
+  outline: true
+
+- title: Eddie Murphy Career Retrospective
+  image: /projects/eddiemurphy/eddiemurphy_thumb.png
+  path: /projects/eddiemurphy/
+  outline: true
+
+- title: openFrameworks Tutorial for Game Developer Magazine
+  image: /projects/gdmag/gdmag_thumb.jpg
+  path: /projects/gdmag/
 
 
 
 #### CRAP ####
-# - title: Slowmotroid
-#   image: /projects/slowmotroid/slowmotroid_thumb.jpg
-#   path: /projects/slowmotroid
 
+# - title: Special Delivery
 # - name: Audio // meowize laverne and shirley / twin barks
-#   projects:
-#     - title: Game Developer Magazine
-#       image: /projects/gdmag/gdmag_thumb.jpg
-#       path: /projects/gdmag/
+
 # - title: Lasercuts
 #   image: /projects/lasercuts/lasercuts_thumb.jpg
 #   path: /projects/lasercuts
-#     - title: Killscreen Magazine
-#       image: /projects/ksmag/ksmag_thumb.jpg
-#       path: /projects/ksmag/
-# - name: Organizations
-#   projects:
-#     - title: Allied Media Conference
-#       image: /projects/alliedmedia/alliedmedia_thumb.jpg
-#       path: /projects/alliedmedia/
-    # - title: 3D Work (C4D)
-    #   image: /projects/3d/3d_thumb.jpg
-    #   path: /projects/3d
-        # - title: Metronomy "The Upsetter" Behind The Scenes
-    #   image: /projects/metronomy/metronomy_thumb.jpg
-    #   path: /projects/metronomy
-      #   - title: Nonprofit Videography
-      # image: /projects/videographynonprofit/videographynonprofit_thumb.jpg
-      # path: /projects/videographynonprofit/
+
+- title: Bennett Foddy Interview
+  image: /projects/ksmag/ksmag_thumb.jpg
+  path: /projects/ksmag/
+
+# - title: 3D Work (C4D)
+#   image: /projects/3d/3d_thumb.jpg
+#   path: /projects/3d
+
+# - title: Metronomy "The Upsetter" Behind The Scenes
+#   image: /projects/metronomy/metronomy_thumb.jpg
+#   path: /projects/metronomy
+
+# - title: Nonprofit Videography
+  # image: /projects/videographynonprofit/videographynonprofit_thumb.jpg
+  # path: /projects/videographynonprofit/
