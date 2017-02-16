@@ -133,7 +133,7 @@ a.icon {
 }
 
 /* GALLERIA */
-.galleria { 
+.galleria {
 	width: auto;
 	background: #000;
 }
@@ -172,24 +172,32 @@ footer {
 @media print {
 
 	body {
-		font-size: 10pt;
+		font-size: 12pt;
+	}
+
+	.header section {
+		margin-bottom: 0;
+	}
+
+	.header div {
+		margin-bottom: 0;
 	}
 
 	h1, h2, h3
 	{
-		font-size: 15pt;
+		font-size: 16pt;
 	}
 
 	h1 {
 		font-size: 20pt;
 	}
 
-	h2 {
-		font-size: 15pt;
-	}
-
 	nav {
 		display: none;
+	}
+
+	li {
+		margin-bottom: 10px;
 	}
 
 	.noprint {
@@ -215,5 +223,8 @@ footer {
 
 @page {
 	size: 8.5in 11in;
-	margin: 1in;
+	margin-top: 0.5in;
+	margin-bottom: 0.5in;
+	margin-left: 1.25in;
+	margin-right: 1.25in;
 }

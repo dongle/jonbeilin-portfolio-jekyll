@@ -1,3 +1,19 @@
+- title: Teratogenesis
+  image: /projects/teratogenesis/teratogenesis_thumb.jpg
+  path: /projects/teratogenesis/
+
+- title: Iron Times
+  image: /projects/irontimes/irontimes_thumb.jpg
+  path: /projects/irontimes/
+
+# - title: Thamus
+#   image: /projects/thamus/thamus_thumb.jpg
+#   path: /projects/thamus/
+
+# - title: Digital Devotion
+#   image: /projects/devotion/devotion_thumb.jpg
+#   path: /projects/devotion/
+
 - title: Impulzus
   image: /projects/impulzus/impulzus_thumb.jpg
   path: /projects/impulzus/
@@ -19,14 +35,6 @@
   image: /projects/humanshield/humanshield_thumb.jpg
   path: /projects/humanshield
 
-# - title: Future Archaeology
-#   image: /projects/futurearchaeology/fa_thumb.jpg
-#   path: /projects/futurearchaeology/
-
-- title: DIY Mobile Signup / Motion Design
-  image: /projects/diysignup/diysignup_thumb.jpg
-  path: /projects/diysignup/
-
 - title: First People (VR short)
   image: /projects/firstpeople/fp_thumb.jpg
   path: /projects/firstpeople/
@@ -39,17 +47,75 @@
   image: /projects/cyberexecution/cyberexecution_thumb.jpg
   path: /projects/cyberexecution/
 
-# - title: Edward Snowbot
-#   image: /projects/snowbot/snowbot_thumb.jpg
-#   path: /projects/snowbot/
-
-- title: Privilege
-  image: /projects/privilege/privilege_thumb.jpg
-  path: /projects/privilege/
-
 - title: Slowmotroid
   image: /projects/slowmotroid/slowmotroid_thumb.jpg
   path: /projects/slowmotroid/
+
+- title: Twine
+  image: /projects/twine/twine_thumb.jpg
+  path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
+
+- title: Antibutton
+  image: /projects/antibutton/antibutton_thumb.jpg
+  path: /projects/antibutton/
+
+#### WRITING ####
+
+# - title: that insane tech essay
+#   image: /projects/gdmag/gdmag_thumb.jpg
+#   path: /projects/gdmag/
+
+# - title: that essay on stats and bullshit
+#   image: /projects/gdmag/gdmag_thumb.jpg
+#   path: /projects/gdmag/
+
+# - title: digital media theory final essay
+#   image: /projects/gdmag/gdmag_thumb.jpg
+#   path: /projects/gdmag/
+
+# - title: openFrameworks Tutorial for Game Developer Magazine
+#   image: /projects/gdmag/gdmag_thumb.jpg
+#   path: /projects/gdmag/
+
+# - title: Web Ecology Project
+#   image: /projects/webecology/webecology_thumb.png
+#   path: /projects/webecology/
+#   outline: true
+
+# - title: Bennett Foddy Interview
+#   image: /projects/ksmag/ksmag_thumb.jpg
+#   path: /projects/ksmag/
+
+#### NOT CRAP BUT OLD/OFF-BRAND
+# - title: BreakVaders
+#   image: /projects/breakvaders/breakvaders_thumb.jpg
+#   path: /projects/breakvaders/
+
+# - title: Mandala App
+#   image: /projects/mandala/mandala_thumb.png
+#   path: /projects/mandala/
+#   outline: true
+
+# - title: DIY Mobile Signup / Motion Design
+#   image: /projects/diysignup/diysignup_thumb.jpg
+#   path: /projects/diysignup/
+
+#### NOT THE RIGHT ROLE #####
+
+# - title: Escalator Rat
+#   image: /projects/rat/rat_thumb.jpg
+#   path: /projects/rat/
+
+#### CRAP PROJECT ####
+
+# - title: Allied Media Conference
+#   image: /projects/alliedmedia/alliedmedia_thumb.jpg
+#   path: /projects/alliedmedia/
+
+# - title: Eddie Murphy Career Retrospective
+#   image: /projects/eddiemurphy/eddiemurphy_thumb.png
+#   path: /projects/eddiemurphy/
+#   outline: true
 
 # - title: Fister
 #   image: /projects/fister/fister_thumb.jpg
@@ -59,65 +125,17 @@
 #   image: /projects/doublesix/doublesix_thumb.jpg
 #   path: /projects/doublesix/
 
-- title: Twine
-  image: /projects/twine/twine_thumb.jpg
-  path: https://www.kickstarter.com/projects/dongle/the-big-book-of-twine-americas-classic-roadside-at
+# - title: Future Archaeology
+#   image: /projects/futurearchaeology/fa_thumb.jpg
+#   path: /projects/futurearchaeology/
 
-- title: Allied Media Conference
-  image: /projects/alliedmedia/alliedmedia_thumb.jpg
-  path: /projects/alliedmedia/
+# - title: Edward Snowbot
+#   image: /projects/snowbot/snowbot_thumb.jpg
+#   path: /projects/snowbot/
 
-- title: BreakVaders
-  image: /projects/breakvaders/breakvaders_thumb.jpg
-  path: /projects/breakvaders/
-
-- title: Mandala App
-  image: /projects/mandala/mandala_thumb.png
-  path: /projects/mandala/
-  outline: true
-
-- title: Dixie Photo Series
-  image: /projects/dixie/dixie_thumb.jpg
-  path: /projects/dixie/
-
-- title: imgur Product Photography
-  image: /projects/imgur/imgur_thumb.jpg
-  path: /projects/imgur/
-
-- title: American Cyberpunk
-  image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
-  path: /projects/americancyberpunk/
-  outline: true
-
-- title: Imperfect Appetites Macro Videography
-  image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
-  path: /projects/imperfectappetites/
-
-- title: Escalator Rat
-  image: /projects/rat/rat_thumb.jpg
-  path: /projects/rat/
-
-- title: Antibutton
-  image: /projects/antibutton/antibutton_thumb.jpg
-  path: /projects/antibutton/
-
-- title: Web Ecology Project
-  image: /projects/webecology/webecology_thumb.png
-  path: /projects/webecology/
-  outline: true
-
-- title: Eddie Murphy Career Retrospective
-  image: /projects/eddiemurphy/eddiemurphy_thumb.png
-  path: /projects/eddiemurphy/
-  outline: true
-
-- title: openFrameworks Tutorial for Game Developer Magazine
-  image: /projects/gdmag/gdmag_thumb.jpg
-  path: /projects/gdmag/
-
-
-
-#### CRAP ####
+# - title: Privilege
+#   image: /projects/privilege/privilege_thumb.jpg
+#   path: /projects/privilege/
 
 # - title: Special Delivery
 # - name: Audio // meowize laverne and shirley / twin barks
@@ -125,10 +143,6 @@
 # - title: Lasercuts
 #   image: /projects/lasercuts/lasercuts_thumb.jpg
 #   path: /projects/lasercuts
-
-- title: Bennett Foddy Interview
-  image: /projects/ksmag/ksmag_thumb.jpg
-  path: /projects/ksmag/
 
 # - title: 3D Work (C4D)
 #   image: /projects/3d/3d_thumb.jpg
@@ -141,3 +155,20 @@
 # - title: Nonprofit Videography
   # image: /projects/videographynonprofit/videographynonprofit_thumb.jpg
   # path: /projects/videographynonprofit/
+
+# - title: Dixie Photo Series
+#   image: /projects/dixie/dixie_thumb.jpg
+#   path: /projects/dixie/
+
+# - title: imgur Product Photography
+#   image: /projects/imgur/imgur_thumb.jpg
+#   path: /projects/imgur/
+
+# - title: American Cyberpunk
+#   image: /projects/americancyberpunk/americancyberpunk_thumb.jpg
+#   path: /projects/americancyberpunk/
+#   outline: true
+
+# - title: Imperfect Appetites Macro Videography
+#   image: /projects/imperfectappetites/imperfectappetites_thumb.jpg
+#   path: /projects/imperfectappetites/
