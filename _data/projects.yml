@@ -1,6 +1,6 @@
-- title: Teratogenesis
-  image: /projects/teratogenesis/teratogenesis_thumb.jpg
-  path: /projects/teratogenesis/
+# - title: Teratogenesis
+#   image: /projects/teratogenesis/teratogenesis_thumb.jpg
+#   path: /projects/teratogenesis/
 
 - title: Iron Times
   image: /projects/irontimes/irontimes_thumb.jpg
@@ -62,16 +62,16 @@
 #### WRITING ####
 
 # - title: that insane tech essay
-#   image: /projects/gdmag/gdmag_thumb.jpg
-#   path: /projects/gdmag/
+#   image:
+#   path:
 
 # - title: that essay on stats and bullshit
-#   image: /projects/gdmag/gdmag_thumb.jpg
-#   path: /projects/gdmag/
+#   image:
+#   path:
 
 # - title: digital media theory final essay
-#   image: /projects/gdmag/gdmag_thumb.jpg
-#   path: /projects/gdmag/
+#   image:
+#   path:
 
 # - title: openFrameworks Tutorial for Game Developer Magazine
 #   image: /projects/gdmag/gdmag_thumb.jpg
